@@ -1,0 +1,9 @@
+Begin Object Class=/Script/Paper2D.PaperTileSet Name="PropsREAL"
+   TileSize=(X=16,Y=16)
+   TileSheet=/Script/Engine.Texture2D'"/Game/PNG/environment/layers/props.props"'
+   WidthInTiles=26
+   HeightInTiles=14
+   AllocatedWidth=26
+   AllocatedHeight=14
+   PerTileData(363)=()
+End Object

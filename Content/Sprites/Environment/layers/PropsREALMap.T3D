@@ -1,0 +1,48 @@
+Begin Object Class=/Script/Paper2D.PaperTileMap Name="PropsREALMap"
+   Begin Object Class=/Script/Paper2D.PaperTileLayer Name="PaperTileLayer_0"
+   End Object
+   Begin Object Class=/Script/Engine.BodySetup Name="BodySetup_0"
+   End Object
+   Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData"
+   End Object
+   Begin Object Name="PaperTileLayer_0"
+      LayerName=LOCGEN_FORMAT_ORDERED(NSLOCTEXT("Paper2D", "NewLayerNameFormatString", "Layer {0}"), LOCGEN_NUMBER_UNGROUPED(1, ""))
+      LayerWidth=2
+      LayerHeight=2
+      AllocatedWidth=2
+      AllocatedHeight=2
+      AllocatedCells(0)=(TileSet=/Script/Paper2D.PaperTileSet'"/Game/PNG/environment/layers/PropsREAL.PropsREAL"',PackedTileIndex=287)
+      AllocatedCells(1)=(TileSet=/Script/Paper2D.PaperTileSet'"/Game/PNG/environment/layers/PropsREAL.PropsREAL"',PackedTileIndex=288)
+      AllocatedCells(2)=(TileSet=/Script/Paper2D.PaperTileSet'"/Game/PNG/environment/layers/PropsREAL.PropsREAL"',PackedTileIndex=313)
+      AllocatedCells(3)=(TileSet=/Script/Paper2D.PaperTileSet'"/Game/PNG/environment/layers/PropsREAL.PropsREAL"',PackedTileIndex=314)
+      AllocatedCells.RemoveIndex(15)
+      AllocatedCells.RemoveIndex(14)
+      AllocatedCells.RemoveIndex(13)
+      AllocatedCells.RemoveIndex(12)
+      AllocatedCells.RemoveIndex(11)
+      AllocatedCells.RemoveIndex(10)
+      AllocatedCells.RemoveIndex(9)
+      AllocatedCells.RemoveIndex(8)
+      AllocatedCells.RemoveIndex(7)
+      AllocatedCells.RemoveIndex(6)
+      AllocatedCells.RemoveIndex(5)
+      AllocatedCells.RemoveIndex(4)
+   End Object
+   Begin Object Name="BodySetup_0"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="AssetImportData"
+   End Object
+   MapWidth=2
+   MapHeight=2
+   TileWidth=16
+   TileHeight=16
+   SelectedTileSet="/Game/PNG/environment/layers/PropsREAL.PropsREAL"
+   TileLayers(0)=/Script/Paper2D.PaperTileLayer'"PaperTileLayer_0"'
+   BodySetup=/Script/Engine.BodySetup'"BodySetup_0"'
+   AssetImportData=/Script/Engine.AssetImportData'"AssetImportData"'
+   SelectedLayerIndex=0
+   TileGridColor=(R=0.304987,G=0.304987,B=0.304987,A=1.000000)
+   LayerGridColor=(R=1.000000,G=1.000000,B=0.000000,A=1.000000)
+   LayerNameIndex=1
+End Object
